@@ -10,7 +10,7 @@ Porsche- Porsche(Car)
 BMW- BMW(Car)
 Biergarten - beer gadren 
 Ratskeller - Councils cellar
-Dirndel
+Dirndel- traditional Woman dress
 Lederhose- Leather pants
 Schloss- Lock
 wettbewerbsfaehig -competitive
