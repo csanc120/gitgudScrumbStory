@@ -12,13 +12,13 @@ Biergarten - beer gadren
 Ratskeller - Councils cellar
 Dirndel
 Lederhose- Leather pants
-Schloss 
-wettbewerbsfaehig 
-Mehlhase 
-Gebaeck
-Baeckerei 
-Hund 
-Doener 
-Apfelkuchen 
-Schloss 
-Eltz
+Schloss- Lock
+wettbewerbsfaehig -competitive
+Mehlhase - Professor
+Gebaeck-pastry
+Baeckerei- bakery
+Hund- dog
+Doener- 
+Apfelkuchen- Apple cake
+Schloss-Lock
+Eltz - Castle
